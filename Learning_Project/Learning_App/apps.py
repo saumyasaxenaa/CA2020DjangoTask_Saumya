@@ -2,4 +2,4 @@ from django.apps import AppConfig
 
 
 class LearnAppConfig(AppConfig):
-    name = 'Learn_App'
+    name = 'Learning_App'
